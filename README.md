@@ -1,7 +1,7 @@
-# Band Shirt Landing Page
+# Shoe Landing Page
 
 ## Project Overview
-You are learning to create a typical landing page for a business. This version includes images to create a landing page for a business selling *band t-shirts*
+You are learning to create a typical landing page for a business. This version includes images to create a landing page for a business selling *shoes*
 - This project will span multiple lessons/days
 - Missing a class or not participating for a lesson will make it **extremely difficult** to catch up. **If you have to miss class, it will be your responsibility to complete the work you missed.**
 - Directions for each lesson will be in a separate ```Lessonx.md``` file
