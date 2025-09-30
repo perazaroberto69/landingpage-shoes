@@ -5,11 +5,20 @@ body {
 }
 
 .header{
+    background-color:black;
+    color:whitesmoke
+}
 
+.header h2{
+    font-size:30px
+}
+
+.nav a{
+    color:whitesmoke
 }
 
 .hero{
-
+    
 }
 
 .products{
