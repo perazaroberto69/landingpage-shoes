@@ -1,3 +1,8 @@
+*{
+    margin:0;
+    padding:0;
+}
+
 body {
     background-color:rgb(12, 19, 94);
     color:white;
@@ -6,7 +11,10 @@ body {
 
 .header{
     background-color:black;
-    color:whitesmoke
+    color:whitesmoke;
+    height:120px;
+    padding-left:20px;
+    padding-right:20px
 }
 
 .header h2{
@@ -14,21 +22,37 @@ body {
 }
 
 .nav a{
-    color:whitesmoke
+    color:whitesmoke;
+    text-decoration:none;
+    margin-left:4px;
+    margin-right:4px;
 }
 
 .hero{
-    
+    height: 100vh;
 }
 
 .products{
-
+    height:100vh;
+    background-color: rgb(15, 9, 74)
+    
 }
 
 .shop{
-
+    height:50vh;
 }
 
 .footer{
-    
+    height:20vh;
+}
+
+.card{
+    width:280px;
+    background-color: rgb(15, 9, 74);
+    border-radius:4px;
+}
+
+.button{
+    padding-left:20px;
+    padding-right:10px;
 }
